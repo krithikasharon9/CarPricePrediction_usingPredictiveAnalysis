@@ -1,6 +1,5 @@
 # CarPricePrediction_usingPredictiveAnalysis
-
--A predictive system has been developed to forecast the price of the used cars. 
+A predictive system has been developed to forecast the price of the used cars. 
 
 -Found the features that will impact the price of the used cars by applying univariate and multivariate analysis for feature extraction. In contrast, several Machine Learning models were applied for price prediction.
 
